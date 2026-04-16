@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-04-16T06:52:51.280Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-04-16T08:15:38.473Z",
     "templateType": "fullpage_scroll",
     "propertyId": "de859dee-7d6d-4c8d-8526-5f5e1af8a6c3",
     "homepageId": "62ddd524-960b-445a-b12f-125b52b53e42"
@@ -575,7 +575,15 @@
     "templateType": "fullpage_scroll",
     "images": [
       {
-        "logo": []
+        "logo": [
+          {
+            "id": "99da6965-a794-49c1-82cf-8a6579dd2358",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/62ddd524-960b-445a-b12f-125b52b53e42/logo/1776325186041-cdgsvp22lx4.png",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "seo": {
@@ -695,7 +703,7 @@
                 ],
                 "videos": [],
                 "mediaType": "image",
-                "description": "커다란 나무와 따스한햇살아래,\n책을읽고, 커피를마시고\n때로는 빵을굽고\n숲을 걸으며\n생각을정리해보다.\n\n초록숲을 머금은 리틀포레스트에서 \n편히 머물다가다."
+                "description": "커다란 나무와 따스한햇살아래,\n책을 읽고, 커피를 마시고\n때로는 빵을 굽고\n숲을 걸으며\n생각을 정리해보다.\n\n초록 숲을 머금은 리틀 포레스트에서 \n편히 머물다가다."
               },
               "gallery": {
                 "title": "Little Forest Preview",
@@ -760,7 +768,7 @@
                 ],
                 "videos": [],
                 "mediaType": "image",
-                "description": "복잡한생 각과 \n일거리를 잠시 접어두고,\n각기 다른 모습의 방 속에서\n나에게 집중하는\n온전한 치유의 시간\n\n개성 다른 4개의 객실이 \n프라이버시가 완벽히 보호되면서도 \n숲의 조망과 함께하는 곳."
+                "description": "복잡한 생각과 \n일거리를 잠시 접어두고,\n각기 다른 모습의 방 속에서\n나에게 집중하는\n온전한 치유의 시간\n\n개성 다른 4개의 객실이 \n프라이버시가 완벽히 보호되면서도 \n숲의 조망과 함께하는 곳."
               }
             }
           ]
@@ -949,9 +957,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -969,9 +977,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -989,9 +997,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -1009,9 +1017,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
