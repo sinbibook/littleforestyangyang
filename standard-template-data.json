@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2026-04-17T07:25:47.838Z",
+    "version": "1.9.0",
+    "generatedAt": "2026-04-17T07:27:32.110Z",
     "templateType": "fullpage_scroll",
     "propertyId": "de859dee-7d6d-4c8d-8526-5f5e1af8a6c3",
     "homepageId": "62ddd524-960b-445a-b12f-125b52b53e42"
@@ -1269,7 +1269,7 @@
         "color": null
       },
       "property": {
-        "name": "숙소명",
+        "name": "양양 리틀포레스트",
         "images": [
           {
             "id": "9fe27056-624a-4e42-9a96-ddcfe9826ed1",
