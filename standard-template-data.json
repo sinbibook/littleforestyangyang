@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-04-17T07:40:03.023Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-04-17T07:59:32.739Z",
     "templateType": "fullpage_scroll",
     "propertyId": "de859dee-7d6d-4c8d-8526-5f5e1af8a6c3",
     "homepageId": "62ddd524-960b-445a-b12f-125b52b53e42"
@@ -80,35 +80,35 @@
             "id": "96d06931-eab9-4cc3-91eb-f75897fc2333",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e29e5ab2-5865-4167-a321-065e241016bf/main/1776410600389-42ka038f7us.jpg",
             "sortOrder": 2,
-            "description": "",
+            "description": " ",
             "isSelected": true
           },
           {
             "id": "36436404-e70c-42b4-913f-be7d3a28a2be",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e29e5ab2-5865-4167-a321-065e241016bf/main/1776410600389-n83r9ryhn7.jpg",
             "sortOrder": 1,
-            "description": "",
+            "description": " ",
             "isSelected": true
           },
           {
             "id": "e3a07126-4d13-4c60-8058-f423f422e074",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e29e5ab2-5865-4167-a321-065e241016bf/main/1776410600389-sggqwjmb8.jpg",
             "sortOrder": 4,
-            "description": "",
+            "description": " ",
             "isSelected": true
           },
           {
             "id": "46024670-4700-4dd1-8fdd-8aabfaf0cd0a",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e29e5ab2-5865-4167-a321-065e241016bf/main/1776410600388-fa0grjpg69m.jpg",
             "sortOrder": 0,
-            "description": "",
+            "description": " ",
             "isSelected": true
           },
           {
             "id": "c8948330-d718-473b-ba7a-378d36793eb2",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e29e5ab2-5865-4167-a321-065e241016bf/main/1776410600389-rns2uvs33qc.jpg",
             "sortOrder": 3,
-            "description": "",
+            "description": " ",
             "isSelected": true
           }
         ]
