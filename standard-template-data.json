@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-04-17T07:27:47.330Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-04-17T07:40:03.023Z",
     "templateType": "fullpage_scroll",
     "propertyId": "de859dee-7d6d-4c8d-8526-5f5e1af8a6c3",
     "homepageId": "62ddd524-960b-445a-b12f-125b52b53e42"
@@ -1037,7 +1037,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "오늘 이 곳에서의 하루만큼은,\n스마트기기를 내려놓고,\n자연의 모습에 눈과 귀를 열고 진짜로 쉬어보자.\n바쁜머리와 지친마음을 내려놓자.\n\n가시돋힌 말투와 무뎌졌던 감각들이 \n숨쉬는 것만으로 채워지는 공간.\n\n삶의 여유와 느림의 감성을 따라 \n하염없이 바라보고,걸어보자."
+                "description": "오늘 이 곳에서의 하루만큼은\n스마트 기기를 내려놓고,\n자연의 모습에 눈과 귀를 열고 진짜로 쉬어보자.\n바쁜 머리와 지친 마음을 내려놓자.\n\n가시 돋힌 말투와 무뎌졌던 감각들이 \n숨쉬는 것만으로 채워지는 공간.\n\n삶의 여유와 느림의 감성을 따라 \n하염없이 바라보고, 걸어보자."
               },
               "about": [
                 {
@@ -1213,6 +1213,26 @@
                   "benefits": [],
                   "features": [],
                   "additionalInfos": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "e29e5ab2-5865-4167-a321-065e241016bf",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "about": {
+                  "title": " ",
+                  "images": []
+                },
+                "experience": {
+                  "features": [],
+                  "additionalInfos": [],
+                  "benefits": []
                 }
               }
             ]
