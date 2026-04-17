@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-04-17T08:09:28.362Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-04-17T09:17:27.170Z",
     "templateType": "fullpage_scroll",
     "propertyId": "de859dee-7d6d-4c8d-8526-5f5e1af8a6c3",
     "homepageId": "62ddd524-960b-445a-b12f-125b52b53e42"
@@ -1230,9 +1230,9 @@
                   "images": []
                 },
                 "experience": {
+                  "benefits": [],
                   "features": [],
-                  "additionalInfos": [],
-                  "benefits": []
+                  "additionalInfos": []
                 }
               }
             ]
@@ -1268,10 +1268,10 @@
       "theme": {
         "font": {
           "koMain": {
-            "cdn": "https://hangeul.pstatic.net/hangeul_static/css/maru-buri.css",
-            "key": "maruburi",
-            "woff2": null,
-            "family": "MaruBuri"
+            "cdn": null,
+            "key": "gyeonggimillenniumbackground",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff",
+            "family": "GyeonggiMillenniumBackground"
           },
           "koSub": {
             "cdn": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css",
