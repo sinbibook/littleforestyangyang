@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.17.0",
-    "generatedAt": "2026-04-20T01:27:17.731Z",
+    "version": "1.18.0",
+    "generatedAt": "2026-04-20T02:54:32.854Z",
     "templateType": "fullpage_scroll",
     "propertyId": "de859dee-7d6d-4c8d-8526-5f5e1af8a6c3",
     "homepageId": "62ddd524-960b-445a-b12f-125b52b53e42"
@@ -704,7 +704,7 @@
       "group": null,
       "size": 284.3,
       "sizePyeong": 86,
-      "baseOccupancy": 15,
+      "baseOccupancy": 13,
       "maxOccupancy": 19,
       "totalRoomCount": {
         "bedroom": 6,
@@ -757,7 +757,7 @@
       ],
       "displayOrder": 5,
       "createdAt": "2026-04-03T08:22:58.086Z",
-      "updatedAt": "2026-04-03T08:24:23.103Z",
+      "updatedAt": "2026-04-20T02:52:03.779Z",
       "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
       "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     }
