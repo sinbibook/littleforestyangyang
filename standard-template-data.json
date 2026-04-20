@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-04-20T03:03:42.382Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-04-20T03:05:35.745Z",
     "templateType": "fullpage_scroll",
     "propertyId": "de859dee-7d6d-4c8d-8526-5f5e1af8a6c3",
     "homepageId": "62ddd524-960b-445a-b12f-125b52b53e42"
@@ -498,7 +498,7 @@
       "propertyName": "양양 리틀포레스트",
       "name": "ROOM E (월풀스파)",
       "nameEn": "ROOM E (Whirlpool Spa)",
-      "description": "분리형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대2)+주방1+화장실1+개별바비큐\n",
+      "description": "분리형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대2)+주방1+화장실2+개별바비큐\n",
       "roomInfo": "분리형, 거실1+침대룸(퀸침대1)+침대룸(퀸침대2)+주방1+화장실1+개별바비큐\n",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 기준인원 초과 시 1인 15,000원 (24개월 미만 영유아 무료) \n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
@@ -554,7 +554,7 @@
       ],
       "displayOrder": 2,
       "createdAt": "2026-04-03T08:22:57.942Z",
-      "updatedAt": "2026-04-03T08:24:23.102Z",
+      "updatedAt": "2026-04-20T03:04:26.087Z",
       "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
       "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
@@ -1146,7 +1146,7 @@
                   "images": []
                 },
                 "about": {
-                  "title": "",
+                  "title": " ",
                   "images": []
                 },
                 "experience": {
@@ -1182,7 +1182,7 @@
             "sections": [
               {
                 "hero": {
-                  "title": "",
+                  "title": " ",
                   "images": []
                 },
                 "about": {
