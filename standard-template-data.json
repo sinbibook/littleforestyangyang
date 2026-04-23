@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.50.0",
-    "generatedAt": "2026-04-23T05:20:05.268Z",
+    "version": "1.51.0",
+    "generatedAt": "2026-04-23T08:50:04.803Z",
     "templateType": "fullpage_scroll",
     "propertyId": "de859dee-7d6d-4c8d-8526-5f5e1af8a6c3",
     "homepageId": "62ddd524-960b-445a-b12f-125b52b53e42"
@@ -160,8 +160,8 @@
       {
         "id": "d7b11125-0193-490f-9676-ec1f1a3c9ef3",
         "name": "특별함",
-        "description": "양양 리틀포레스트의 특별함을 소개합니다. \n\n[불멍]\n- 화로대 대여 : 10,000원\n- 장작 20kg + 착화재 : 25,000원\n※ 장작 개인 지참 가능\n※ 현장결제\n\n[그외 특별함]\n- 일출 보기\n- 숲멍 : 모래놀이터, 트리하우스에서 자연을 즐겨보세요\n- 별자리보기",
-        "usageGuide": "양양 리틀포레스트의 특별함을 소개합니다. \n\n[불멍]\n- 화로대 대여 : 10,000원\n- 장작 20kg + 착화재 : 25,000원\n※ 장작 개인 지참 가능\n※ 현장결제\n\n[그외 특별함]\n- 일출 보기\n- 숲멍 : 모래놀이터, 트리하우스에서 자연을 즐겨보세요\n- 별자리보기",
+        "description": "양양 리틀포레스트의 특별함을 소개합니다. \n\n[불멍]\n- 화로대 대여 : 유료\n- 장작 20kg + 착화재 : 30,000원\n※ 장작 개인 지참 가능\n※ 현장결제\n\n[그외 특별함]\n- 일출 보기\n- 숲멍 : 트리하우스에서 자연을 즐겨보세요\n- 별자리보기",
+        "usageGuide": "양양 리틀포레스트의 특별함을 소개합니다. \n\n[불멍]\n- 화로대 대여 : 유료\n- 장작 20kg + 착화재 : 30,000원\n※ 장작 개인 지참 가능\n※ 현장결제\n\n[그외 특별함]\n- 일출 보기\n- 숲멍 : 트리하우스에서 자연을 즐겨보세요\n- 별자리보기",
         "displayOrder": 135,
         "images": [
           {
@@ -169,13 +169,6 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d7b11125-0193-490f-9676-ec1f1a3c9ef3/main/1776327777050-u94t4tloeh.jpg",
             "sortOrder": 3,
             "description": " 불멍",
-            "isSelected": true
-          },
-          {
-            "id": "08f11de3-50c5-4b99-944c-7d5a22b613c4",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d7b11125-0193-490f-9676-ec1f1a3c9ef3/main/1776916726097-ynleu0fehyk.jpg",
-            "sortOrder": 0,
-            "description": "별자리 보기",
             "isSelected": true
           },
           {
@@ -198,6 +191,13 @@
             "sortOrder": 1,
             "description": "별자리 보기",
             "isSelected": true
+          },
+          {
+            "id": "7fba004d-8f26-405c-bdc0-0111b396bd3f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d7b11125-0193-490f-9676-ec1f1a3c9ef3/main/1776934085617-2xi17g4l88u.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
           }
         ]
       },
@@ -218,29 +218,29 @@
           {
             "id": "e093268e-cc3e-4b3a-8721-72bfdb4b1b7a",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ddf8700-164b-4852-8e17-d3b6352934e1/main/1776920795004-dxj6bkywgf.jpg",
-            "sortOrder": 2,
+            "sortOrder": 3,
             "description": "커피 제공",
             "isSelected": true
           },
           {
             "id": "8ad13196-0081-408e-a6b3-ea3d6037c859",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ddf8700-164b-4852-8e17-d3b6352934e1/main/1776920795004-y9h842ologl.jpg",
-            "sortOrder": 3,
+            "sortOrder": 4,
             "description": "생수 무한제공",
-            "isSelected": true
-          },
-          {
-            "id": "e01b50fc-7475-434d-b4ff-881738216cc2",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ddf8700-164b-4852-8e17-d3b6352934e1/main/1776920979862-6jok7e61z63.jpg",
-            "sortOrder": 1,
-            "description": "매트리스 케어",
             "isSelected": true
           },
           {
             "id": "473d5f71-7672-417b-9305-b708159f9cd9",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ddf8700-164b-4852-8e17-d3b6352934e1/main/1776920997480-ghgw7843eqe.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "커피 제공",
+            "isSelected": true
+          },
+          {
+            "id": "e01b50fc-7475-434d-b4ff-881738216cc2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ddf8700-164b-4852-8e17-d3b6352934e1/main/1776920979862-6jok7e61z63.jpg",
+            "sortOrder": 2,
+            "description": "매트리스 케어",
             "isSelected": true
           }
         ]
