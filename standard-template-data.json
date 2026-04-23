@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.46.0",
-    "generatedAt": "2026-04-23T03:56:30.692Z",
+    "version": "1.47.0",
+    "generatedAt": "2026-04-23T05:11:44.547Z",
     "templateType": "fullpage_scroll",
     "propertyId": "de859dee-7d6d-4c8d-8526-5f5e1af8a6c3",
     "homepageId": "62ddd524-960b-445a-b12f-125b52b53e42"
@@ -165,38 +165,38 @@
         "displayOrder": 135,
         "images": [
           {
-            "id": "6151eb80-352b-4e0f-b782-cfaaa17b898d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d7b11125-0193-490f-9676-ec1f1a3c9ef3/main/1776307426571-qgkuad3932k.jpg",
-            "sortOrder": 3,
-            "description": " ",
-            "isSelected": true
-          },
-          {
-            "id": "6b1e6c3d-6dfe-4e6e-ba32-a2ac5f28df0d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d7b11125-0193-490f-9676-ec1f1a3c9ef3/main/1776307426571-zt82veq7zj.jpg",
-            "sortOrder": 1,
-            "description": " ",
-            "isSelected": true
-          },
-          {
-            "id": "a923b6ff-fe6b-4478-93c1-0f7382f15263",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d7b11125-0193-490f-9676-ec1f1a3c9ef3/main/1776307426571-4xg31m0elzs.jpg",
-            "sortOrder": 4,
-            "description": " ",
-            "isSelected": true
-          },
-          {
-            "id": "ded57d38-e580-46f0-bc6f-ef839f893d33",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d7b11125-0193-490f-9676-ec1f1a3c9ef3/main/1776327777051-hp5x7p9ojhe.jpg",
-            "sortOrder": 2,
-            "description": " ",
-            "isSelected": true
-          },
-          {
             "id": "595e0aa1-9f16-4ae5-b3d5-629be047c0b4",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d7b11125-0193-490f-9676-ec1f1a3c9ef3/main/1776327777050-u94t4tloeh.jpg",
+            "sortOrder": 3,
+            "description": " 불멍",
+            "isSelected": true
+          },
+          {
+            "id": "08f11de3-50c5-4b99-944c-7d5a22b613c4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d7b11125-0193-490f-9676-ec1f1a3c9ef3/main/1776916726097-ynleu0fehyk.jpg",
             "sortOrder": 0,
-            "description": " ",
+            "description": "별자리 보기",
+            "isSelected": true
+          },
+          {
+            "id": "fdac663b-1b7e-4c5e-9543-8166e62c8b98",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d7b11125-0193-490f-9676-ec1f1a3c9ef3/main/1776916795040-8ecw3jxyzs.jpg",
+            "sortOrder": 2,
+            "description": "일출보기",
+            "isSelected": true
+          },
+          {
+            "id": "a74dfb9c-7f92-4b1b-8b82-4bf745f8aab7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d7b11125-0193-490f-9676-ec1f1a3c9ef3/main/1776916726098-7y9v3umspn.jpg",
+            "sortOrder": 4,
+            "description": "숲멍",
+            "isSelected": true
+          },
+          {
+            "id": "a618674c-0788-43bd-a2c1-26a472e04776",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d7b11125-0193-490f-9676-ec1f1a3c9ef3/main/1776920916481-xtmrl3fz94.jpg",
+            "sortOrder": 1,
+            "description": "별자리 보기",
             "isSelected": true
           }
         ]
@@ -207,7 +207,43 @@
         "description": "리틀포레스트에서 제공하는 다양한 서비스를 안내드립니다. \n\n[편의시설]\n- 무료 WiFi\n- 코웨이 전문가 케어 비데, 탑퍼교체 매트리스 사용\n- 무료 생수 서비스\n- 커피머신",
         "usageGuide": "[편의시설]\n- 무료 WiFi\n- 코웨이 전문가 케어 비데, 탑퍼교체 매트리스 사용\n- 무료 생수 서비스\n- 커피머신",
         "displayOrder": 138,
-        "images": []
+        "images": [
+          {
+            "id": "f1ce7482-dfec-4c59-8c38-1135e248db5a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ddf8700-164b-4852-8e17-d3b6352934e1/main/1776920795003-2sb5wvdt1b8.jpg",
+            "sortOrder": 0,
+            "description": "매트리스 케어",
+            "isSelected": true
+          },
+          {
+            "id": "e093268e-cc3e-4b3a-8721-72bfdb4b1b7a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ddf8700-164b-4852-8e17-d3b6352934e1/main/1776920795004-dxj6bkywgf.jpg",
+            "sortOrder": 2,
+            "description": "커피 제공",
+            "isSelected": true
+          },
+          {
+            "id": "8ad13196-0081-408e-a6b3-ea3d6037c859",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ddf8700-164b-4852-8e17-d3b6352934e1/main/1776920795004-y9h842ologl.jpg",
+            "sortOrder": 3,
+            "description": "생수 무한제공",
+            "isSelected": true
+          },
+          {
+            "id": "e01b50fc-7475-434d-b4ff-881738216cc2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ddf8700-164b-4852-8e17-d3b6352934e1/main/1776920979862-6jok7e61z63.jpg",
+            "sortOrder": 1,
+            "description": "매트리스 케어",
+            "isSelected": true
+          },
+          {
+            "id": "473d5f71-7672-417b-9305-b708159f9cd9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ddf8700-164b-4852-8e17-d3b6352934e1/main/1776920997480-ghgw7843eqe.jpg",
+            "sortOrder": 0,
+            "description": "커피 제공",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -1121,7 +1157,7 @@
                   "images": []
                 },
                 "about": {
-                  "title": "",
+                  "title": " ",
                   "images": []
                 },
                 "experience": {
@@ -1134,6 +1170,26 @@
           },
           {
             "id": "e29e5ab2-5865-4167-a321-065e241016bf",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": []
+                },
+                "about": {
+                  "title": " ",
+                  "images": []
+                },
+                "experience": {
+                  "benefits": [],
+                  "features": [],
+                  "additionalInfos": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "0ddf8700-164b-4852-8e17-d3b6352934e1",
             "sections": [
               {
                 "hero": {
@@ -1223,16 +1279,16 @@
             "category": "property_exterior"
           },
           {
-            "id": "5112123e-ea3b-466c-acb5-f09b0ed3dbd7",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/62ddd524-960b-445a-b12f-125b52b53e42/property_exterior/1776309494638-kuq7kwcsbc.jpg",
+            "id": "a59bd457-3c2d-428e-a5e6-e64f3cdea1e3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/62ddd524-960b-445a-b12f-125b52b53e42/property_exterior/1776921077388-syhacllngym.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "category": "property_exterior"
           },
           {
-            "id": "bbdccba7-0581-4ffa-baa3-6182550f426a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/62ddd524-960b-445a-b12f-125b52b53e42/property_exterior/1776309494637-iioioi29x1.jpg",
+            "id": "5112123e-ea3b-466c-acb5-f09b0ed3dbd7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/62ddd524-960b-445a-b12f-125b52b53e42/property_exterior/1776309494638-kuq7kwcsbc.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
@@ -1263,17 +1319,9 @@
             "category": "property_exterior"
           },
           {
-            "id": "dc99d160-48eb-4beb-90e1-cf17fed09558",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/62ddd524-960b-445a-b12f-125b52b53e42/property_exterior/1776309494638-kaexice9ev.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true,
-            "category": "property_exterior"
-          },
-          {
             "id": "b15a1c1b-ab6c-4356-a781-5a8d031be70e",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/62ddd524-960b-445a-b12f-125b52b53e42/property_exterior/1776309494638-d3ntroaj56f.jpg",
-            "sortOrder": 7,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "category": "property_exterior"
@@ -1281,7 +1329,7 @@
           {
             "id": "886f55cd-1b38-4eb8-99a3-04700cbff6ac",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/62ddd524-960b-445a-b12f-125b52b53e42/property_exterior/1776309494638-e0ahvgoig2u.jpg",
-            "sortOrder": 8,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "category": "property_exterior"
@@ -1289,7 +1337,7 @@
           {
             "id": "5f13483f-0e31-43ed-91b4-0bb84baa9f93",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/62ddd524-960b-445a-b12f-125b52b53e42/property_exterior/1776309494638-xi94s0y5fqg.jpg",
-            "sortOrder": 9,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "category": "property_exterior"
@@ -1297,7 +1345,7 @@
           {
             "id": "9a906766-9985-44fd-9241-75e0d63324cb",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/62ddd524-960b-445a-b12f-125b52b53e42/property_exterior/1776309494638-q1o6z2s7pk.jpg",
-            "sortOrder": 10,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "category": "property_exterior"
