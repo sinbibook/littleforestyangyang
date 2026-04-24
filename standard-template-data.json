@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.52.0",
-    "generatedAt": "2026-04-23T09:07:27.001Z",
+    "version": "1.53.0",
+    "generatedAt": "2026-04-24T03:59:00.887Z",
     "templateType": "fullpage_scroll",
     "propertyId": "de859dee-7d6d-4c8d-8526-5f5e1af8a6c3",
     "homepageId": "62ddd524-960b-445a-b12f-125b52b53e42"
@@ -556,6 +556,7 @@
         "침대",
         "무료 WiFi",
         "스마트 TV",
+        "스타일러",
         "헤어드라이어",
         "인덕션",
         "샴푸",
@@ -579,7 +580,7 @@
       ],
       "displayOrder": 2,
       "createdAt": "2026-04-03T08:22:58.037Z",
-      "updatedAt": "2026-04-21T02:44:37.541Z",
+      "updatedAt": "2026-04-24T03:58:33.046Z",
       "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
       "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
     },
