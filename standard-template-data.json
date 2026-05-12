@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.56.0",
-    "generatedAt": "2026-05-07T00:56:59.399448828Z",
+    "version": "1.57.0",
+    "generatedAt": "2026-05-12T06:34:19.010858907Z",
     "templateType": "fullpage_scroll",
     "propertyId": "de859dee-7d6d-4c8d-8526-5f5e1af8a6c3",
     "homepageId": "62ddd524-960b-445a-b12f-125b52b53e42"
@@ -436,6 +436,7 @@
         "더블 베드",
         "싱글 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -494,6 +495,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -551,6 +553,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -611,6 +614,7 @@
         "싱글 베드",
         "이층침대"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -670,6 +674,7 @@
       "bedTypes": [
         "퀸 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "무료 WiFi",
@@ -1251,10 +1256,38 @@
               }
             }
           ]
+        },
+        "layoutMap": {
+          "sections": [ ]
+        },
+        "nearbyAttractions": {
+          "sections": [ ]
         }
       },
       "popup": {
-        "popups": [ ]
+        "popups": [
+          {
+            "id": "532dc731-567c-4748-a1a4-e4c2119dbb57",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "973ac50d-0fc7-43a5-b62c-cc78a2f65efa",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/62ddd524-960b-445a-b12f-125b52b53e42/popup/1778567654349-ydp8nzqbt3.png",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "532dc731-567c-4748-a1a4-e4c2119dbb57"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": "2026-07-24",
+            "sortOrder": 0,
+            "startDate": "2026-05-12",
+            "description": ""
+          }
+        ]
       },
       "theme": {
         "font": {
