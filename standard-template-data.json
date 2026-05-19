@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.60.0",
-    "generatedAt": "2026-05-19T01:28:40.953321539Z",
+    "version": "1.61.0",
+    "generatedAt": "2026-05-19T04:08:57.630506627Z",
     "templateType": "fullpage_scroll",
     "propertyId": "de859dee-7d6d-4c8d-8526-5f5e1af8a6c3",
     "homepageId": "62ddd524-960b-445a-b12f-125b52b53e42"
@@ -417,15 +417,15 @@
     {
       "id": "6b5c68b2-e869-4ecc-a524-278b13655aaa",
       "name": "전체 대관(전화문의)",
-      "description": "독채형, 거실2+침대룸(퀸침대2)+침대룸(더블침대1)+침대룸(퀸침대2)+침대룸(싱글침대1,퀸침대1)+침대룸(2층침대1)+침대룸(퀸침대2)+주방4+화장실5+개별바비큐",
-      "roomInfo": "독채형, 거실2+침대룸(퀸침대2)+침대룸(더블침대1)+침대룸(퀸침대2)+침대룸(싱글침대1,퀸침대1)+침대룸(2층침대1)+침대룸(퀸침대2)+주방4+화장실5+개별바비큐",
+      "description": "실내+테라스+숲속정원(500평)\n침실5개(침대10개) 욕실5개\n야외다이닝/바베큐",
+      "roomInfo": "실내+테라스+숲속정원(500평)\n침실5개(침대10개) 욕실5개\n야외다이닝/바베큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 기준인원 초과 시 1인 20,000원, 어린이 15,000원 (영유아 무료)\n※ 영유아 기준인원 포함 / 최대인원 초과불가",
       "group": null,
       "size": 284.3,
       "baseOccupancy": 13,
       "maxOccupancy": 19,
       "totalRoomCount": {
-        "bedroom": 6,
+        "bedroom": 5,
         "bathroom": 5,
         "livingRoom": 2,
         "ondol": 0,
@@ -436,7 +436,22 @@
         "더블 베드",
         "싱글 베드"
       ],
-      "bedConfigs": null,
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 0,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
       "amenities": [
         "침대",
         "무료 WiFi",
